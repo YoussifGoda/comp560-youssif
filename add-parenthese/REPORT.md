@@ -62,6 +62,12 @@ To experiment with a miniature character-level GPT model that can complete simpl
 
 ---
 
+### Training Loss
+
+The graph below shows the training loss decreasing over the number of iterations, indicating that the model is successfully learning:
+
+![Training Loss](training_loss.png)
+
 ## Sampling Results
 
 - Example completions after training:

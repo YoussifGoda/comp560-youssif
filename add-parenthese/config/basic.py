@@ -9,9 +9,9 @@ log_interval = 1
 # always save checkpoint so sampling works
 always_save_checkpoint = True
 
-wandb_log = False
+wandb_log = True
 wandb_project = 'add-parentheses-basic'
-wandb_run_name = 'infant'
+wandb_run_name = 'first run'
 
 dataset = 'basic'
 gradient_accumulation_steps = 1
